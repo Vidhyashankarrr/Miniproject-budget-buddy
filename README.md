@@ -1,4 +1,4 @@
-# Budget Insights & Expense Tracker
+# Title: Budget Insights & Expense Tracker
 ## 🔗 Live Demo
 [https://miniproject-budget-buddy.vercel.app/]
 ## 📖 Description
