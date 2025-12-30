@@ -25,12 +25,19 @@ Store data locally for persistence
 
 3. Technology Stack
 Category	Technology
+
 Frontend	React (Vite)
+
 Styling	Tailwind CSS
+
 Charts	Chart.js / Recharts
+
 State Management	React Hooks
+
 Storage	LocalStorage
+
 Routing	React Router DOM
+
 4. Core Features
 4.1 Dashboard
 
@@ -141,22 +148,33 @@ No backend required
 src/
 │
 ├── components/
+
 │   ├── Sidebar.jsx
+
 │   ├── SummaryCards.jsx
+
 │   ├── AddTransaction.jsx
+
 │   ├── RecentTransactions.jsx
+
 │   ├── Charts.jsx
+
 │   ├── BudgetTracker.jsx
 │
 ├── pages/
+
 │   ├── Dashboard.jsx
+
 │   ├── Income.jsx
+
 │   ├── Expense.jsx
+
 │
 ├── App.jsx
+
 ├── main.jsx
 
-7. State Management
+8. State Management
 
 The application uses React Hooks:
 
